@@ -1,4 +1,4 @@
-package com.tutorial.instrument;
+package com.css.instrument;
 
 import java.lang.instrument.Instrumentation;
 
